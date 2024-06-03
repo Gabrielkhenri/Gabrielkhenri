@@ -1,6 +1,6 @@
 # Hi 👋
 
-My name's Gabriel, and I'm a Computer Engineering student. I'm still at the beginning of my journey, but I hope to one day work wwith one of those things:
+My name's Gabriel, and I'm a Computer Engineering student. I'm still at the beginning of my journey, but I hope to one day work with one of those things:
 
 - <b>Web Development 🖥️
 - Game Development 🎮
