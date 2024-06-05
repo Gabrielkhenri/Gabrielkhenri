@@ -16,7 +16,7 @@ Why not stay with me until I get there?
   <div style="margin-right: 20px;">
     <img src="https://cyber.dabamos.de/88x31/ienuke.gif" alt="Gif 1" style="max-height: 100%; max-width: 100%;">
   </div>
-  <div>
+  <div align='center">
     <img src="https://cyber.dabamos.de/88x31/mswinmediaplayer7.gif" alt="Gif 2" style="max-height: 100%; max-width: 100%;">
   </div>
 </div>
